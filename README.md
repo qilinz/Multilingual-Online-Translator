@@ -18,22 +18,12 @@ Input arguments are parsed using argparse module. The word to translate is then 
 
 ## Examples
 ``` 
-> python translator.py english all hello
-Arabic Translations:
-مرحبا
-
-Arabic Example:
-Well, hello, old-school racist.:
-حسنا، مرحبا يا تلميذة المدرسة العنصريّة - الأمر يسري بدمهم!
-
-
+> python translator.py english german hello
 German Translations:
 hallo
 
 German Example:
 We agreedellen wolf is innocent. hello.:
 Wir waren einverstanden damit, dass Wolf unschuldig ist. Hallo.
-
-...
 ```
 Disclaimer: The original project idea is from [JetBrains Academy](https://hyperskill.org/projects/99). All codes were written by myself.
